@@ -1,0 +1,154 @@
+img {
+    width : 100%;
+    /* height: 100%; */
+    /* border: 10px solid #ffffff00; */
+    border-radius: 25px;
+
+    display: block;
+    /* margin: 20px; */
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+
+
+.image-box {
+    border-radius: 20px;
+    margin: 20px;
+}
+
+
+
+body {
+    /* background-color : rgb(90, 90, 90) ; */
+    /* background-image: linear-gradient(rgb(77, 0, 184),rgb(255, 94, 0)); */
+    background-image: linear-gradient(to bottom right, #b388a2, #936b98);
+    text-align : center ;
+}
+
+
+
+.heading-box {
+    margin : -0.4%; 
+    padding: 1.25%; 
+    /* padding : 10px; */
+    /* background-color : rgb(169, 169, 169) ; */
+    background-image: linear-gradient(to bottom right, #5c5c86, #5b447c);
+    /* border-radius: 20px; */
+}
+
+
+
+.main-boxes {
+    margin : 20px ;
+    padding: 2px;
+    /* padding : 10px; */
+    /* background-color : rgb(169, 169, 169) ; */
+    background-image: linear-gradient(to bottom right, #5c5c86, #5b447c);
+    border-radius: 20px;
+}
+
+
+
+.smaller-box {
+    width: 25%;
+    height: 10%;
+    background-image: linear-gradient(to bottom right, red, blue);
+    color: white;
+}
+
+
+
+.title-text {
+    font-family:Brush Script MT; 
+    font-size:5vw;
+    margin: 0%;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.smaller-text {
+    font-family:Brush Script MT; 
+    font-size:2vw;
+    margin: 0%;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.p1 {
+    font-family: "Brush Script MT";
+}
+
+
+
+.footer-text {
+    font-family:Brush Script MT; 
+    font-size:1.5vw;
+    margin: 0.25%;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.footer-box {
+    margin : -0.4%; 
+    padding: 0.20%; 
+    /* padding : 10px; */
+    /* background-color : rgb(169, 169, 169) ; */
+    background-image: linear-gradient(to bottom right, #5c5c86, #5b447c);
+    /* border-radius: 20px; */
+}
+
+
+
+.button {
+    width: 425px;
+    height: 250px;
+}  
+
+
+
+.button-text {
+    font-family:Brush Script MT; 
+    font-size:10vw;
+    margin: 5px;
+}
+
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+
+
+.container img {
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.Big Text {
+    Height: 100px;
+}
+
+
